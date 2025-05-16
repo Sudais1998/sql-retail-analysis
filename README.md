@@ -1,219 +1,179 @@
-# 📦 Amazon Sales Performance Dashboard – 2025  
 
-![Amazon](https://github.com/user-attachments/assets/a1b5315c-43d2-4b71-bc2c-cc340bc35825)
 
 ---
 
-## 📌 Table of Contents  
-1. [📊 Project Overview](#-project-overview)  
-2. [📌 Business Use Case](#-business-use-case)  
-3. [📂 Data Sources](#-data-sources)  
-4. [🛠 Tools & Technologies](#-tools--technologies)  
-5. [📈 KPIs Monitored](#-kpis-monitored)  
-6. [🧹 Data Cleaning](#-data-cleaning)  
-7. [📊 Key Insights](#-key-insights)  
-8. [🎯 Recommendations](#-recommendations)  
-9. [⚠️ Limitations](#-limitations)  
-10. [🎥 Video Tutorials & Walkthroughs](#-video-tutorials--walkthroughs)  
-11. [🚀 Future Improvements & Roadmap](#-future-improvements--roadmap)  
-12. [📊 Interact with the Dashboard](#-interact-with-the-dashboard)  
-13. [✍️ Author](#-author)  
-14. [📌 License](#-license)  
+# 🛢️ **SQL Projects Portfolio** 💻
+
+Welcome to my **SQL Projects Portfolio!** This repository is a curated collection of real-world SQL projects that reflect my ability to **extract insights from data, solve business problems, and support decision-making through structured query language (SQL)**.
+
+Each project demonstrates my proficiency in **relational database management**, **data analysis**, and **performance tuning**, while aligning with real-life business use cases such as **sales analytics, customer segmentation, fraud detection, financial monitoring, and operational reporting**.
+
+Whether it's writing complex joins across multiple tables, optimizing queries for large datasets, or preparing data for interactive dashboards in **Power BI or Tableau**, this portfolio showcases how I apply SQL to bridge the gap between **raw data** and **strategic decisions**.
 
 ---
 
-## 📊 Project Overview  
+## 🔍 **What You’ll Find in This Portfolio**
 
-### 🛍️ Understanding Amazon's Sales Performance  
-The Amazon Sales Performance Dashboard is an Excel-based analytics solution aimed at uncovering performance patterns across sales channels, product categories, and customer behavior. It supports data-driven decision-making by visualizing key sales metrics, fulfillment issues, and revenue trends in a simplified, interactive format.  
-
-This dashboard allows stakeholders—such as sales managers, product owners, and supply chain leaders—to:  
-- Identify high-performing and underperforming products.  
-- Monitor real-time revenue across multiple time frames.  
-- Detect operational bottlenecks in order processing and fulfillment.  
-- Align strategic efforts with actual customer behavior patterns.
-
-It acts as both a diagnostic and predictive tool for boosting performance and profitability.
+* **End-to-End SQL Workflows**: From raw CSV files or production databases to final analytical queries.
+* **Business-Relevant Case Studies**: Focused on industries like sales, banking, customer service, and marketing.
+* **Reproducible SQL Scripts**: Clean, modular, and well-documented code that can be reused across projects.
+* **Performance-Aware Queries**: Leveraging indexing, CTEs, and window functions to ensure efficiency.
+* **BI-Ready Outputs**: All datasets and queries are designed to be easily integrated into Power BI or Excel dashboards.
 
 ---
 
-## 📌 Business Use Case  
-This dashboard is designed for e-commerce decision-makers within Amazon or similar retail platforms. Business needs addressed include:  
-- **Performance Tracking:** What products and categories are driving growth?  
-- **Operational Efficiency:** Where are delays and cancellations occurring most?  
-- **Customer Preferences:** Which days, methods, or months perform best?  
-- **Revenue Strategy:** Which months and categories need re-optimization?
-  
----
+## 📌 **Table of Contents** 🗂️
 
-## 📂 Data Sources  
-- **Amazon Sales 2025 Dataset**  
-Fields include:  
-- `Order ID`, `Product`, `Category`, `Payment Method`, `Order Date`, `Sales Revenue`, `Order Quantity`, `Order Status`, etc.  
----
+1. [👨‍💻 About Me](#-about-me-🌍)
+   └─ [🔹 Core Strengths & Expertise](#-core-strengths--expertise)
+   └─ [🔹 Certifications & Learning](#-certifications--learning)
 
-## 🛠 Tools & Technologies  
-- **Microsoft Excel**: Core tool for data analysis and visualization.  
-- **Pivot Tables & Charts**: Used to summarize large datasets.  
-- **Data Cleaning Techniques**: For accuracy and consistency.  
-- **Interactive Dashboards**: Visual storytelling for insights.
+2. [📚 Projects Overview](#-projects-overview-)
+   └─ [🔹 Project 1: Motor Vehicle Theft Analysis – New Zealand](#-project-1-motor-vehicle-theft-analysis--new-zealand)
+   └─ [🔹 Project 2: Netflix Movies and TV Shows Analysis](#-project-2-netflix-movies-and-tv-shows-analysis)
 
----
+3. [📂 Getting Started](#-getting-started)
 
-## 📈 KPIs Monitored  
+4. [🛠 Technologies & Tools](#-technologies--tools)
 
-| KPI | Value | Description |
-|-----|-------|-------------|
-| 💰 **Total Revenue** | `$243,845` | Total sales generated across all orders. |
-| 📦 **Total Quantity Sold** | `714` | Total number of product units sold. |
-| 🧾 **Order Volume** | `250` | Total number of unique orders placed. |
-| 🧮 **Average Order Value (AOV)** | `$342` | Average revenue generated per order (`Revenue ÷ Orders`). |
-| ⭐ **Top-Selling Product** | `Refrigerator – $78,000` | Product with the highest revenue contribution. |
-| 👤 **Best Customer** | `Olivia Wilson – $36,170` | Customer with the highest total purchases. |
+5. [📐 Best Practices in SQL](#-best-practices-in-sql)
+
+6. [⚙️ Query Optimization & Debugging](#-query-optimization--debugging)
+
+7. [📩 Contact Information](#-contact-information)
+
+8. [📜 License](#-license)
 
 ---
 
-## 🧹 Data Cleaning  
-### Data Transformation Steps:  
-1. **Date Standardization** – Ensured a consistent format across all date fields.  
-2. **Duplicates & Nulls** – Removed irrelevant or empty records.  
-3. **Category Consolidation** – Merged overlapping or duplicate product categories.  
-4. **Field Formatting** – Applied appropriate number, currency, and text formatting.  
-5. **Derived Columns** – Added Month and Day-of-Week columns for time-series analysis.
+## 👨‍💻 **About Me** 🌍
+
+Hello! I’m **Oladosu Ibrahim Adeniyi**, a passionate and results-oriented **Data Analyst & Business Intelligence Specialist** with a strong foundation in **SQL, Microsoft Excel, and Power BI**. I bring a **hybrid background in finance and data analytics**, enabling me to deliver both **strategic business insights** and **technical data solutions**.
+
+With a proven academic record and hands-on experience in **data transformation, reporting, and dashboard automation**, I specialize in translating complex data into **clear, actionable insights** that drive business performance. I'm committed to continuous learning and have built this portfolio to showcase real-world projects that reflect my journey from raw datasets to compelling data stories.
+
+### 🔹 **Core Strengths & Expertise**
+
+* 🛢️ **Advanced SQL Querying** (joins, CTEs, subqueries, window functions)
+* 📈 **Data Visualization & Reporting** (Power BI, Tableau)
+* 📊 **Data Cleaning & Analysis** (using SQL, Power Query, Excel)
+* 🧠 **Business-Focused Analytics** (KPI tracking, financial metrics, customer insights)
+* 🏗️ **Database Design & Optimization** (normalization, indexing, query tuning)
+* 💡 **Data Storytelling & Dashboard Design**
+
+### 🔹 **Certifications & Learning**
+
+✔ 📂 **SQL for Data Analytics**
+✔ 📊 **Power BI Data Analyst**
+✔ 📘 **Advanced Excel for Financial Modeling**
 
 ---
 
-## 📈 Key Insights  
+## 📚 **Projects Overview** 🏗️
 
-### 💰 Top Products by Revenue  
-- **Refrigerators, Laptops, and Smartphones** generated over **60% of total revenue**.  
-- **Smartwatches and Washing Machines** are secondary contributors.  
-- **Books, T-Shirts, and Jeans** contributed the least — potentially low-margin or under-marketed.
-
-### 💳 Payment Methods  
-- **PayPal** is the leading method, followed by **Credit** and **Debit Cards**.  
-- **Amazon Pay and Gift Cards** are underutilized, suggesting promotion opportunities.  
-- The **diverse payment mix** reflects customers’ demand for flexibility.
-
-### 📆 Monthly Sales Trends  
-- **February had the highest revenue** ($122,695), despite **March having the most orders** (131).  
-- **April experienced a significant dip** in both revenue and volume — potential marketing or logistics issues.
-
-### 📦 Category-Wise Quantity  
-- **Electronics (348 units)** far exceed all other categories.  
-- **Clothing (115)** and **Home Appliances (110)** follow.  
-- **Books (69)** and **Footwear (72)** lag in volume.
-
-### 📅 Day-of-Week Sales  
-- **Monday and Tuesday** are the best-performing days in terms of revenue.  
-- **Saturday has the lowest sales** ($19,625), signaling low engagement.  
-- **Thursday and Sunday** show promising weekend traffic.
-
-### ✅ Order Fulfillment Status  
-- **Completed orders (88)** barely outnumber **Pending (85)** and **Cancelled (77)** — a sign of potential inefficiencies.  
-- High cancellation and pending rates point to **order fulfillment or payment issues**.
+This section showcases practical SQL projects where I applied advanced querying, data cleaning, and analytical techniques to derive actionable insights from real-world datasets. Each project is organized into its own directory with scripts, ERD (if applicable), sample outputs, and documentation.
 
 ---
 
-## 🎯 Recommendations  
+### 🔹 **Project 1: Motor Vehicle Theft Analysis – New Zealand**
 
-### 🔧 Product Strategy  
-- Prioritize **Refrigerators, Laptops, and Smartphones** in marketing and stock management.  
-- Assess viability of low-performing items like **Books and T-Shirts**.  
-- Upsell **Smartwatches** and **Headphones** with flagship electronics.
+📌 **Description**:
+This project investigates motor vehicle theft patterns in **New Zealand**, focusing on analyzing theft trends over time, locations with the highest crime rates, vehicle types frequently stolen, and identifying key risk periods.
 
-### 💳 Payment Optimization  
-- Enhance **PayPal and Credit/Debit** integrations.  
-- Promote **Amazon Pay and Gift Cards** using discounts or cashback incentives.
+🔹 **Key SQL Highlights**:
 
-### 📈 Monthly Sales Strategy  
-- Investigate **April's drop** — check inventory, marketing, or seasonal factors.  
-- **Replicate strategies** from February and March across other months.
+* Data Cleaning & Standardization using CTEs and CASE statements
+* Time-Based Analysis: Extracting and grouping data by year, month, and weekday
+* Aggregation & Ranking to identify top locations and most targeted vehicle types
+* Joins and Subqueries to merge multiple dimensions
+* Window Functions for cumulative crime trends and rolling metrics
 
-### 🛍️ Category Optimization  
-- Continue pushing **Electronics** with smart bundles.  
-- Use **cross-category promotions** to lift underperforming segments.  
-- Consider phasing out or rebranding low-margin products.
-
-### 📅 Weekday Campaign Strategy  
-- Launch **weekly deals early in the week** to ride Monday–Tuesday peaks.  
-- Address **Saturday’s underperformance** with weekend flash sales or free shipping.
-
-### 🚚 Order Fulfillment  
-- Audit **pending/cancelled orders**: inventory, payments, logistics.  
-- Implement **automated alerts** and improve delivery experience.  
-- Create **feedback loops** for customer cancellation reasons.
+🛠 **Technologies Used**: PostgreSQL, pgAdmin, ERD Tools
+📖 **Link to Project README**: [Motor Vehicle Theft Analysis](#)
 
 ---
 
-## ⚠️ Limitations  
+### 🔹 **Project 2: Netflix Movies and TV Shows Analysis**
 
-While this project offers clear insights, it has certain limitations that should be addressed in future iterations:
+📌 **Description**:
+A comprehensive SQL-based analysis of the **Netflix catalog**, exploring trends in content production, genre distribution, and country-wise publishing patterns.
 
-1. **Customer Segmentation Missing**  
-   - No demographic or geographic data to personalize recommendations or identify buyer personas.
+🔹 **Key SQL Highlights**:
 
-2. **No Promotional Influence Captured**  
-   - Sales spikes may be influenced by promotions or external events, which are not reflected in the dataset.
+* Data Parsing and column splitting (e.g., multiple countries, cast members)
+* Date & Duration Conversion for time-based visualizations
+* Exploratory Analysis on content types, release year trends, and genre diversity
+* String Functions & Filtering to clean and analyze complex fields
+* Top N Queries to identify the most featured directors and actors
 
-3. **No Marketing Attribution**  
-   - Can't assess if users arrived via ads, organic search, social media, etc.
-
-4. **Fulfillment Complexity Hidden**  
-   - Doesn’t account for internal logistics delays or third-party shipping performance.
-
-5. **Limited Time Span**  
-   - Data is constrained to 2025, restricting long-term trend analysis or seasonality benchmarking.
+🛠 **Technologies Used**: MySQL, dbdiagram.io, DBeaver
+📖 **Link to Project README**: [Netflix Content Analysis](#)
 
 ---
 
-## 🎥 Video Tutorials & Walkthroughs  
+## 📂 **Getting Started**
 
-### ▶️ Watch the Full Dashboard Tour  
-Walkthrough on how to explore the Amazon Sales Dashboard in Excel:  
-📽️ [Click here to watch the tutorial](https://youtu.be/example-link) *(replace with actual YouTube link)*
+To explore any project:
 
-### 🔧 Excel Dashboard Creation Steps  
-- Importing Data via Power Query  
-- Cleaning and Transforming Data  
-- Building PivotTables  
-- Creating Charts and Slicers  
-- Designing the Final Dashboard Layout  
-
----
-## 🚀 Future Improvements & Roadmap  
-
-| Feature | Status | ETA |
-|--------|--------|-----|
-| Add Customer Demographics | ⬜ Planned | Q2 2025 |
-| Connect to Power BI version | ⬜ Planned | Q3 2025 |
-| Predictive Analytics using Excel Forecasting | ⬜ Planned | Q2 2025 |
-| Integration with Real-Time API Feed | ⬜ Planned | Q4 2025 |
-| Automated Email Reports | ⬜ Planned | Q4 2025 |
-| Sentiment Analysis from Customer Reviews | ⬜ Planned | 2026 |
-
----
-## 📊 Interact with the Dashboard  
-Explore the Amazon Sales Dashboard built in Microsoft Excel:  
-📎 **[Click here to view the dashboard](#)** (insert OneDrive/Google Drive link or GitHub repo preview)
+1. Navigate to the relevant project folder.
+2. Read the `README.md` for setup instructions and project objectives.
+3. Open `.sql` scripts in your preferred SQL IDE.
+4. Review data outputs or visualization suggestions (if provided).
+5. Run, analyze, or adapt for your own use!
 
 ---
 
-## ✍️ Author  
+## 🛠 **Technologies & Tools**
 
-**Oladosu Ibrahim Adeniyi**  
-- 💼 Data Analyst | Power BI | SQL | Excel  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ibrahimadeniyisodiq)  
-- 🧠 [Hashnode Blog](https://kingbabz.hashnode.dev)  
-- 💻 [GitHub](https://github.com/KingBabz)  
-- 📬 Contact: Oladosuadeniyi39@gmail.com  
+* 🛢️ **SQL Dialects**: PostgreSQL, MySQL
+* 📈 **Visualization**: Power BI, Tableau
+* 🧹 **Data Cleaning & Transformation**: SQL Scripts, Window Functions
+* 📦 **Database Storage**: Localhost & Sample Datasets (CSV → SQL import)
 
 ---
 
-## 📌 License  
-This project is licensed under the MIT License 
+## 📐 **Best Practices in SQL**
 
+* Use **CTEs and Views** for better readability and maintenance.
+* Avoid `SELECT *` — specify columns for performance.
+* Normalize datasets and use **proper indexing**.
+* Follow **naming conventions** for tables and columns.
+* Write **modular and reusable queries**.
 
+---
 
+## ⚙️ **Query Optimization & Debugging**
+
+### 🔹 Common Bottlenecks
+
+* Inefficient JOINs → Use **EXPLAIN plans**.
+* Full table scans → **Add indexes** on filter columns.
+* Repetitive subqueries → Replace with **CTEs** or temp tables.
+
+### 🔹 Debugging Tips
+
+* Break down large queries into smaller parts.
+* Use `LIMIT` during testing.
+* Validate with **sample outputs** and known totals.
+
+---
+
+## 📩 **Contact Information**
+
+📧 **Email**: [oladosuadeniyi39@gmail.com](mailto:oladosuadeniyi39@gmail.com)
+🌐 **LinkedIn**: [https://www.linkedin.com/in/oladosu-ibrahim/](https://www.linkedin.com/in/oladosu-ibrahim/)
+✍️ **Blog**: [https://sudais.hashnode.dev/](https://sudais.hashnode.dev/)
+
+---
+
+## 📜 **License**
+
+This repository is licensed under the **MIT License**.
+
+---
+
+### 🚀 **Thanks for visiting my SQL Projects Portfolio!**
+
+Feel free to explore, fork, and collaborate. Happy querying! 🧠📊
 
 
