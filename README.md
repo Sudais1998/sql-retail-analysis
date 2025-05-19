@@ -1,4 +1,3 @@
-Here's a fully revised and **aligned version of your README** with a properly formatted **Table of Contents**, as well as **corrected descriptions for Projects 4 and 5** to reflect their actual topics. I've also ensured consistency, corrected repeated links, and refined phrasing throughout.
 
 ---
 
@@ -196,22 +195,6 @@ If any of these projects interest you, navigate to the respective **project dire
 ---
 
 ## 📩 **Contact Information**
-
-📧 Email: [ibrahimoladosu@gmail.com](mailto:ibrahimoladosu@gmail.com)
-🔗 LinkedIn: [linkedin.com/in/oladosuibrahim](https://linkedin.com/in/oladosuibrahim)
-🌐 Portfolio: \[Coming Soon]
-
----
-
-Let me know if you want this turned into a downloadable `README.md` file or need help customizing links/branding.
-
-
-
-
-
-
-
-## ✍️ Author
 
 **Oladosu Ibrahim Adeniyi**
 *Data Analyst | Cloud Enthusiast | Business Intelligence Developer*
