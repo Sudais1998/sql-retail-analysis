@@ -10,31 +10,33 @@ This portfolio serves as a practical representation of my **Data Analysis & Busi
 
 ---
 
+
 ## 📌 **Table of Contents** 🗂️
 
-1️⃣ [👨‍💻 About Me](#-about-me-🌍)
-  🔹 [Certifications & Expertise](#-certifications--expertise)
+1️⃣ **[👨‍💻 About Me](#-about-me-🌍)**
+ 🔹 **[Certifications & Expertise](#-certifications--expertise)**
 
-2️⃣ [📚 Projects Overview](#-projects-overview-🏗️)
-  🔹 [Project 1: SuperStore US Dashboard](#-project-1-superstore-us-analysis)
-  🔹 [Project 2: Airline Passenger Satisfaction Dashboard](#-project-2-airline-passenger-satisfaction-analysis)
-  🔹 [Project 3: Bank Customer Churn Dashboard](#-project-3-bank-customer-churn-analysis)
-  🔹 [Project 4: Amazon Sales Dashboard](#-project-4-amazon-sales-analysis)
-  🔹 [Project 5: MTN Customer Churn Dashboard](#-project-5-mtn-customer-churn-analysis)
+2️⃣ **[📚 Projects Overview](#-projects-overview-🏗️)**
+ 🔹 **[Project 1: SuperStore US Dashboard](#-project-1-superstore-us-analysis)**
+ 🔹 **[Project 2: Airline Passenger Satisfaction Dashboard](#-project-2-airline-passenger-satisfaction-analysis)**
+ 🔹 **[Project 3: Bank Customer Churn Dashboard](#-project-3-bank-customer-churn-analysis)**
+ 🔹 **[Project 4: Amazon Sales Dashboard](#-project-4-amazon-sales-analysis)**
+ 🔹 **[Project 5: MTN Customer Churn Dashboard](#-project-5-mtn-customer-churn-analysis)**
 
-3️⃣ [📂 Getting Started](#-getting-started)
+3️⃣ **[📂 Getting Started](#-getting-started)**
 
-4️⃣ [🛠 Technologies & Tools](#-technologies--tools)
+4️⃣ **[🛠 Technologies & Tools](#-technologies--tools)**
 
-5️⃣ [🔐 Best Practices in Excel](#-best-practices-in-excel)
+5️⃣ **[🔐 Best Practices in Excel](#-best-practices-in-excel)**
 
-6️⃣ [🔍 Troubleshooting & Optimization](#-troubleshooting--optimization)
+6️⃣ **[🔍 Troubleshooting & Optimization](#-troubleshooting--optimization)**
 
-7️⃣ [📜 Documentation & References](#-documentation--references)
+7️⃣ **[📜 Documentation & References](#-documentation--references)**
 
-8️⃣ [📩 Contact Information](#-contact-information)
+8️⃣ **[📩 Contact Information](#-contact-information)**
 
-📖 [Jump to Table of Contents](#-table-of-contents-🗂️)
+📖 **[Jump to Table of Contents](#-table-of-contents-🗂️)**
+
 
 ---
 
